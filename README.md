@@ -14,9 +14,9 @@ So first of all:
 |-----------------------|---------------------------------------------------------------|
 |1. Ordered Lists	|A number followed by a period `1.` creates ordered list	|
 |2. Another list	|Same as first							|
-| *Unordered list	|Created by inserting `*` or `-` or `+` in front of the list	|
-| -Second list		|Same as above							|
-| +Third list		|Same still							|
+| * Unordered list	|Created by inserting `*` or `-` or `+` in front of the list	|
+| - Second list		|Same as above							|
+| + Third list		|Same still							|
 |**Bold items**		|Makes items bold						|
 |*Italics*		|Italicizes items						|
 |_Italics again_	|Another ways of italicizing					|
