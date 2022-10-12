@@ -23,7 +23,7 @@ So first of all:
 |__Bold items again__	|Double underscores at both ends also bolds items		|
 |~~N~~			|Double tildes at ends of a text will produce a strike through 	|
 
-_Let's here for now, `**@Topman Great guy**` already **covered** all these and more_
+_Let's here for now, **`@Topman Great guy`** already **covered** all these and more_
 
 ###### So let's look at that last _task_
 
