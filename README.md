@@ -23,9 +23,8 @@ So first of all:
 |__Bold items again__	|Double underscores at both ends also bolds items		|
 |~~N~~			|Double tildes at ends of a text will produce a strike through 	|
 
-_Let's stop here for now, **`@Topman Great guy`** already **covered** all these and more_
 
-###### So let's look at that last _task_
+
 1. Orderedlist
 2. Another one
 
@@ -37,6 +36,10 @@ _Let's stop here for now, **`@Topman Great guy`** already **covered** all these 
 
 + Unordered Still
 + Second one
+
+_Let's stop here for now, **`@Topman Great guy`** already **covered** all these and more_
+
+###### So let's look at that last _task_
 
 
 **Great!** You've completed the quiz successfully! Keep going! (<ins>Show quiz</ins>)      												
