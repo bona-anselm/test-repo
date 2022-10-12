@@ -14,15 +14,14 @@ So first of all:
 |-----------------------|---------------------------------------------------------------|
 |1. Ordered Lists	|A number followed by a period `1.` creates ordered list	|
 |2. Another list	|Same as first							|
-|* Unordered list	|Created by inserting `*` or `-` or `+` in front of the list	|
-|* Second list		|Same as above							|
-|* Third list		|Same still							|
+| * Unordered list	|Created by inserting `*` or `-` or `+` in front of the list	|
+| - Second list		|Same as above							|
+| + Third list		|Same still							|
 |**Bold items**		|Makes items bold						|
 |*Italics*		|Italicizes items						|
 |_Italics again_	|Another way of italicizing					|
 |__Bold items again__	|Double underscores at both ends also bolds items		|
 |~~N~~			|Double tildes at ends of a text will produce a strike through 	|
-
 
 
 1. Orderedlist
