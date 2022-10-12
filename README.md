@@ -1,5 +1,5 @@
 # TEST-REPO
-This *repo* was created as a way tp practice how git and github works in the initial days of **ALX**.
+This *repo* was created as a way to practice how git and github works in the initial days of **ALX**.
 
 I promised `@Olusola` during last night's lesson to show how to fix the last part of the task `@Topman` *great guy* was working on. 
 
@@ -25,16 +25,12 @@ So first of all:
 
 
 1. Orderedlist
-2. Another one
 
 * Unordered List
-* Another one
 
 - Unordered Again
-- Second one
 
 + Unordered Still
-+ Second one
 
 _Let's stop here for now, **`@Topman Great guy`** already **covered** all these and more_
 
