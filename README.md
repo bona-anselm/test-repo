@@ -24,7 +24,7 @@ So first of all:
 |~~N~~			|Double tildes at ends of a text will produce a strike through 	|
 
 
-1. Orderedlist
+1. Ordered List
 
 * Unordered List
 
