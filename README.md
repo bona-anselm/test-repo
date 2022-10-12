@@ -23,7 +23,7 @@ So first of all:
 |__Bold items again__	|Double underscores at both ends also bolds items		|
 |~~N~~			|Double tildes at ends of a text will produce a strike through 	|
 
-Unordered list didn't work inside the table, _I don't know though._
+### Unordered list didn't work inside the table, _I don't know though._
 
 1. Ordered List
 
