@@ -28,8 +28,6 @@ _Let's here for now, **`@Topman Great guy`** already **covered** all these and m
 ###### So let's look at that last _task_
 
 
->>>
-  **Great!** You've completed the quiz successfully! Keep going! (<ins>Show quiz</ins>) 
->>>       
-												
+---
+  **Great!** You've completed the quiz successfully! Keep going! (<ins>Show quiz</ins>)       ---												
 												
