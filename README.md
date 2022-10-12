@@ -26,7 +26,17 @@ So first of all:
 _Let's stop here for now, **`@Topman Great guy`** already **covered** all these and more_
 
 ###### So let's look at that last _task_
+1. Orderedlist
+2. Another one
 
+* Unordered List
+* Another one
+
+- Unordered Again
+- Second one
+
++ Unordered Still
++ Second one
 
 
 **Great!** You've completed the quiz successfully! Keep going! (<ins>Show quiz</ins>)      												
